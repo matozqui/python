@@ -1,4 +1,4 @@
-# Snippets for ALtair (Vega-Lite high level implementation)
+# Snippets for Altair (Vega-Lite high level implementation)
 
 ## Bar Chart
 
