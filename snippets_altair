@@ -1,0 +1,10 @@
+# Snippets for ALtair (Vega-Lite high level implementation)
+
+## Bar Chart
+
+``` python
+  alt.Chart(brain).mark_bar().encode(
+      x=alt.X('Body Weight',bin=alt.Bin(maxbins=100)),
+      y="count()"
+  )
+```
